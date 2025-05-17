@@ -55,17 +55,12 @@ Para que o Oráculo possa operar, alguns artefatos e encantamentos são necessá
     *   Obtenha este arquivo JSON de uma Conta de Serviço no seu Google Cloud Console.
     *   Garanta que a API do Google Sheets esteja **ATIVA** para o projeto associado.
     *   Coloque `credentials.json` na raiz do seu projeto (onde o script do Oráculo reside).
-    <p align="center">
-      <img src="https://i.imgur.com/D0gKjTT.png" alt="Google Cloud Console" width="250"/>
-    </p>
+
 
 4.  **Compartilhe a Sabedoria (Permissões na Planilha):**
     *   Abra sua Planilha Google de Respostas.
     *   Clique em "Compartilhar".
     *   Adicione o `client_email` (encontrado no seu `credentials.json`) e conceda a ele permissão de **Leitor** (ou Editor).
-    <p align="center">
-      <img src="https://i.imgur.com/rX2X5QG.png" alt="Compartilhar Planilha" width="250"/>
-    </p>
 
 5.  **Configure os Encantamentos no Script (`oraculo_dados.py`):**
     *   **`ID_DA_PLANILHA_DE_RESPOSTAS`**: Defina com o ID da sua Planilha de Respostas.
