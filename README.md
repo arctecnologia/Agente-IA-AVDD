@@ -5,7 +5,6 @@
 ## Bem-vindo(a) ao Santuário do Oráculo de Dados!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/burnysc2/gspread/master/logo.png" alt="GSpread Logo" width="150" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/250px-Google_2015_logo.svg.png" alt="Google Logo" width="150" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/150px-Python-logo-notext.svg.png" alt="Python Logo" width="100" />
 </p>
