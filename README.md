@@ -80,6 +80,9 @@ Para que o Oráculo possa operar, alguns artefatos e encantamentos são necessá
         *   As **listas de strings** (critérios) devem ser os nomes *exatos* das colunas de avaliação na sua planilha.
     *   **`MAPEAMENTO_ESCALA`**: As chaves devem ser os textos *exatos* das opções de resposta nas suas colunas de avaliação, e os valores, suas pontuações numéricas.
 
+  6.  **Forms Google: https://forms.gle/buyJwPsieYKY2ECB9**
+
+
 ---
 
 ### 🚀 Invocando o Oráculo
