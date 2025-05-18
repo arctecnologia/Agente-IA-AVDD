@@ -28,11 +28,11 @@ O Oráculo foi conjurado para analisar as avaliações de desempenho com base no
 ### ⚙️ Como o Oráculo Opera Sua Magia
 
 1.  **Conexão Arcana:** O Oráculo estabelece um elo místico com sua Planilha Google de Respostas usando a biblioteca `gspread` e credenciais seguras.
-    *   <img src="https://i.imgur.com/2QyvVzg.png" alt="Chave de Credenciais" width="50"/> `credentials.json`: A chave sagrada que concede acesso.
-    *   <img src="https://i.imgur.com/U60iVot.png" alt="Ícone Planilha" width="50"/> `SPREADSHEET_ID`: O mapa estelar para a sua Planilha de Respostas.
+    *   `credentials.json`: A chave sagrada que concede acesso.
+    *    `SPREADSHEET_ID`: O mapa estelar para a sua Planilha de Respostas.
 
 2.  **Leitura dos Pergaminhos:** Ele lê cada resposta (sussurro) da planilha.
-    *   <img src="https://i.imgur.com/J7yI2hF.png" alt="Ícone Pandas" width="50"/> `pandas`: Sua prancheta mágica para organizar os dados.
+    *   `pandas`: Sua prancheta mágica para organizar os dados.
 
 3.  **Interpretação dos Símbolos:** As respostas textuais são traduzidas para uma escala numérica compreensível pelo Oráculo (`MAPEAMENTO_ESCALA`).
 
